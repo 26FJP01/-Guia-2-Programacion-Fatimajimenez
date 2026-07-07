@@ -1,4 +1,7 @@
 Algoritmo Leccion17_Actividad3
+    Escribir"Nombre:Fatima jimenez"
+	Escribir "Grado Seccio:IVC"
+	Escribir "Clave:15"
 	Definir numFila, numColumna Como Entero
 	Definir matrizColumna Como Entero
 	Dimension matrizColumna[4,4]
