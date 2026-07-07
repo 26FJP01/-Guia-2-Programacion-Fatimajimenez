@@ -30,7 +30,7 @@
         Console.WriteLine();
         Console.WriteLine("El número mayor es: " + mayor);
         Console.WriteLine("Pertenece a la fila: " + (filaMayor + 1));
-        Console.WriteLine("Corresponde a la columna: " + (columnaMayor + 1));
+        Console.WriteLine("Y corresponde a la columna: " + (columnaMayor + 1));
         Console.ReadKey();
     }
 }
