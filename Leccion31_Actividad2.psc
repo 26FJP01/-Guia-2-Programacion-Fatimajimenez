@@ -1,4 +1,7 @@
 Algoritmo Leccion31_Actividad2
+    Escribir"Nombre:Fatima jimenez"
+	Escribir "Grado Seccio:IVC"
+	Escribir "Clave:15"
 	Definir fila, columna, nume, suma Como Entero
 	Definir tabla Como Entero
 	Dimension tabla[4,3]
